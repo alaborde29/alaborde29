@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning at EPITECH Nantes
 - 📫 How to reach me : alexandre.laborde@epitech.eu - laborde.a@live.fr
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alaborde29)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaborde29&count_private=true).(https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alaborde29&count_private=true)(https://github.com/anuraghazra/github-readme-stats)
