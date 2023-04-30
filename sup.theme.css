@@ -18,11 +18,11 @@
 
 :root {
 	--transparencycolor:			0,0,0;						/* default:	0,0,0																								*/
-	--transparencyalpha:			0.15;						/* default: 0.15				(general darkness of the app)													*/
-	--messagetransparency:			0.5;						/* default: 0.5					(additional shadows behind messages, set to 0 to remove boxes)					*/
-	--guildchanneltransparency:		0.15;						/* default: 0.15				(additional darkness for guild/channel list)									*/
-	--chatinputtransparency:		0.0;						/* default: 0.0					(additional darkness for chat input container)									*/
-	--memberlisttransparency:		0.0;						/* default: 0.0					(additional darkness for member list)											*/
+	--transparencyalpha:			0.80;						/* default: 0.15				(general darkness of the app)													*/
+	--messagetransparency:			0.80;						/* default: 0.5					(additional shadows behind messages, set to 0 to remove boxes)					*/
+	--guildchanneltransparency:		0.80;						/* default: 0.15				(additional darkness for guild/channel list)									*/
+	--chatinputtransparency:		0.80;						/* default: 0.0					(additional darkness for chat input container)									*/
+	--memberlisttransparency:		0.80;						/* default: 0.0					(additional darkness for member list)											*/
 	--accentcolor:					88,101,242;					/* default: 190,78,180			(RGB-format - blurple: 88,101,242 bd-blue: 58,113,193)							*/
 	
 	--font:							"gg sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;		/* font used in most places										*/
