@@ -18,7 +18,7 @@
 
 :root {
 	--transparencycolor:			0,0,0;						/* default:	0,0,0																								*/
-	--transparencyalpha:			0.80;						/* default: 0.15				(general darkness of the app)													*/
+	--transparencyalpha:			0.15;						/* default: 0.15				(general darkness of the app)													*/
 	--messagetransparency:			0.5;						/* default: 0.5					(additional shadows behind messages, set to 0 to remove boxes)					*/
 	--guildchanneltransparency:		0.15;						/* default: 0.15				(additional darkness for guild/channel list)									*/
 	--chatinputtransparency:		0.0;						/* default: 0.0					(additional darkness for chat input container)									*/
@@ -39,7 +39,7 @@
 	--popoutsize:					var(--backgroundsize);		/* default: cover				(sizefit of popout - values: [cover/contain/auto])								*/
 	--popoutblur:					var(--backgroundblur);		/* default: unset				(blur in px, only works when --popout is set to an image)						*/
 	
-	--backdrop:						rgba(0,0,0,0.85);			/* default: rgba(0,0,0,0.85)	(change to use another background/color for backdrops)							*/
+	--backdrop:						rgba(0,0,0,0.15);			/* default: rgba(0,0,0,0.85)	(change to use another background/color for backdrops)							*/
 	--backdropposition:				center;						/* default: center				(position of backdrop - values: [center/top/right/bottom/left])					*/
 	--backdropsize:					cover;						/* default: cover				(sizefit of backdrop - values: [cover/contain/auto])							*/
 	--backdropblur:					unset;						/* default: unset				(blur in px, only works when --backdrop is set to an image)						*/
