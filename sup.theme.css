@@ -17,7 +17,7 @@
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.css);
 
 :root {
-	--transparencycolor:			0,0,0;						/* default:	0,0,0																								*/
+	--transparencycolor:			200,200,200;						/* default:	0,0,0																								*/
 	--transparencyalpha:			0.80;						/* default: 0.15				(general darkness of the app)													*/
 	--messagetransparency:			0.80;						/* default: 0.5					(additional shadows behind messages, set to 0 to remove boxes)					*/
 	--guildchanneltransparency:		0.80;						/* default: 0.15				(additional darkness for guild/channel list)									*/
